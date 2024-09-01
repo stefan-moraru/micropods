@@ -1,0 +1,12 @@
+{
+  "en": {
+    "pod_invoices": {
+      "invoicesTitle": "Invoice list"
+    }
+  },
+  "ro": {
+    "pod_invoices": {
+      "invoicesTitle": "Lista facturilor"
+    }
+  }
+}

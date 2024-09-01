@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev",
+    "format": "prettier --write .",
+    "lint": "eslint .",
+    "preview": "rsbuild preview",
+    "preview-build": "rsbuild build && rsbuild preview --port 8003"
+  },
+  "dependencies": {
+    "@module-federation/enhanced": "^0.3.3",
+    "@tanstack/react-query": "^5.51.16",
+    "axios": "^1.7.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.1.1",
+    "@eslint/js": "^9.8.0",
+    "@rsbuild/core": "1.0.1-beta.8",
+    "@rsbuild/plugin-react": "1.0.1-beta.8",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^9.8.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "globals": "^15.8.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.2",
+    "typescript-eslint": "^7.17.0"
+  }
+}

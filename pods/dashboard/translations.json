@@ -1,0 +1,12 @@
+{
+  "en": {
+    "pod_dashboard": {
+      "welcomeMessage": "🇺🇸Hello! This is a translated message"
+    }
+  },
+  "ro": {
+    "pod_dashboard": {
+      "welcomeMessage": "🇷🇴Buna! Acest mesaj este tradus"
+    }
+  }
+}

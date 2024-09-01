@@ -1,0 +1,9 @@
+{
+  "name": "micropods",
+  "scripts": {
+    "dev": "pnpm run --workspace-concurrency=Infinity -r dev",
+    "build": "pnpm run --workspace-concurrency=Infinity -r build",
+    "preview-build": "pnpm run --workspace-concurrency=Infinity -r preview-build",
+    "clean": "rm -rfv ./pods/*/node_modules && rm -rfv ./pods/*/dist && rm -rfv ./pods/*/@mf-types"
+  }
+}
