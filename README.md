@@ -10,7 +10,7 @@ While there are [some great examples](https://github.com/module-federation/modul
 
 Hence, I've started this repo with the motivation of helping others that are looking for a more complete example.
 
-I have also written [this article]() which encapsulates all the lessons learned. You can also find the text for the article in the [ARTICLE.md](./ARTICLE.md) file.
+I have also written [this article](https://dev.to/stefan_moraru_871d86b9f9b/complete-module-federation-example-with-rspack-3pn3) which encapsulates all the lessons learned. You can also find the text for the article in the [ARTICLE.md](./ARTICLE.md) file.
 
 ### ✨ Features
 - 🏎️ Build / development (rspack, pnpm)
