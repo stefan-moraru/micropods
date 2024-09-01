@@ -2,6 +2,8 @@
 
 ### Complete example of module federation with rspack, react, tailwind, shacdn
 
+You can find details about the implementation in [this article](https://dev.to/stefan_moraru_871d86b9f9b/complete-module-federation-example-with-rspack-3pn3).
+
 ### Motivation
 
 I was looking for a complete example of module federation which includes an UI library, a way to talk with an API, translations, a pub/sub system, but couldn't find any.
